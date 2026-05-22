@@ -1,2 +1,2 @@
 # cprd_infections_inequalities
-Codelists used in the study
+Codelists and R codes used in the study
